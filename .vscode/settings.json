@@ -1,5 +1,4 @@
 {
-    "cppbuild.isEnabled": false,
     "go.delveConfig": {
         "debugAdapter": "legacy",
     }
