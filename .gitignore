@@ -24,3 +24,5 @@ go.work.sum
 # Personal artem.boboshko ignore list
 build/**
 data/**
+
+logs/*
